@@ -1,3 +1,8 @@
+## Note:
+This is a learning fork from [Asabeneh](https://github.com/Asabeneh)'s learning resource [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python).
+<br/>
+The goal is to track my progress and keep notes and examples for the future.
+
 # 🐍 30 Days Of Python
 
   <strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong>
