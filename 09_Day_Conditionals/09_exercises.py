@@ -143,7 +143,7 @@ backend = {'Node', 'Python', 'MongoDB'}
 fullstack = {'React', 'Node', 'MongoDB'}
 skills_set = set(person['skills'])
 
-if fullstack.issubset(skills_set) :
+if fullstack.issubset(skills_set):
     print("He is a full stack developer")
 elif frontend.issubset(skills_set):
     print("He is a front end developer")
