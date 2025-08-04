@@ -1,9 +1,9 @@
 from collections import Counter
-from data import countries, countries_data
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
+from data import countries, countries_data
 
 # Exercises: Day 10
 
